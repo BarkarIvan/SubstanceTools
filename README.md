@@ -16,4 +16,4 @@ A simple radial blur implementation that creates a soft blur toward or away from
 References:
 - [Mip Flooding in Substance Designer (by Hauke Thiessen)](https://haukethiessen.com/mip-flooding-in-substance-designer/)
 - [Video demo](https://youtu.be/MKX45_riWQA?si=C22Rdh9ywBKRDnlG&t=3040)
-
+4096 max size
